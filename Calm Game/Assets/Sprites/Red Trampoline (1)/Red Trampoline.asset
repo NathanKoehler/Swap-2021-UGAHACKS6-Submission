@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Red Trampoline
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 66b2c31ec0e35ae42abcb66bfa8e9bfa, type: 3}
+  - {fileID: 21300000, guid: 51be8baa849ff2f41840ced6e82305a8, type: 3}
+  - {fileID: 21300000, guid: 15b7049173527124dbf60ea0fb4345a0, type: 3}
+  - {fileID: 21300000, guid: 3399a2058aa3e7d48b716d72b1b18f94, type: 3}
+  - {fileID: 21300000, guid: d910d45079b0b544f93ce1321b891b8f, type: 3}
+  - {fileID: 21300000, guid: 1c79075132b41054a8cf15014970e162, type: 3}
+  - {fileID: 21300000, guid: eae666b30f9c95e498328000436e7a9f, type: 3}
+  - {fileID: 21300000, guid: 136481ae0eca5b24993a5a9cdb980f59, type: 3}
+  - {fileID: 21300000, guid: 27332a57d5418ae42a8cbbd99e23c900, type: 3}
+  m_MinSpeed: 20
+  m_MaxSpeed: 20
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1

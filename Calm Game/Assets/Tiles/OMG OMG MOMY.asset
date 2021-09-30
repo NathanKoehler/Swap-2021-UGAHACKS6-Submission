@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6e4e4fc705376343a3e65b25d94f0e2, type: 3}
+  m_Name: OMG OMG MOMY
+  m_EditorClassIdentifier: 
+  m_Sprites:
+  - {fileID: 6283803491711862912, guid: faeab253efc8a55439bb87f525114fd4, type: 3}
+  - {fileID: -2246628094988713207, guid: faeab253efc8a55439bb87f525114fd4, type: 3}
+  - {fileID: -8124251056553731872, guid: faeab253efc8a55439bb87f525114fd4, type: 3}
+  - {fileID: -3610579629195017552, guid: faeab253efc8a55439bb87f525114fd4, type: 3}
+  - {fileID: 8488832173249669912, guid: faeab253efc8a55439bb87f525114fd4, type: 3}
+  - {fileID: 3322274756043089428, guid: 730650ac3e7fd43439aac4967ca7ca0c, type: 3}
+  - {fileID: 3381412205353708462, guid: 730650ac3e7fd43439aac4967ca7ca0c, type: 3}
+  - {fileID: -6314985818302082742, guid: 730650ac3e7fd43439aac4967ca7ca0c, type: 3}
+  - {fileID: -6038059022967888901, guid: faeab253efc8a55439bb87f525114fd4, type: 3}
+  - {fileID: 2200894916095374534, guid: faeab253efc8a55439bb87f525114fd4, type: 3}
+  - {fileID: 66264932493226492, guid: 71a815f4d16ea5149bc957d9a84ee6de, type: 3}
+  - {fileID: -5940355348541011336, guid: 71a815f4d16ea5149bc957d9a84ee6de, type: 3}
+  - {fileID: 8942762963200233877, guid: 71a815f4d16ea5149bc957d9a84ee6de, type: 3}
+  - {fileID: 5443061621877503125, guid: faeab253efc8a55439bb87f525114fd4, type: 3}
+  - {fileID: -2497224943992909039, guid: faeab253efc8a55439bb87f525114fd4, type: 3}
